@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PincaClarisseExam1</string>
+    <string name="cla">Clark Kent</string>
+    <string name="rep">Reporter</string>
+    <string name="ver">Very quiet bespectacled reporter at the Daily Planet. Clumsy fellow, but well built and looks strikingly familiar</string>
+    <string name="bru">Bruce Wayne</string>
+    <string name="bil">Billionaire</string>
+    <string name="inc">Incredibly smart billionaire industrialist and notorious playboy. Also very reclusive. Almost certainly the batman</string>
+    <string name="bar">Barack Obama</string>
+    <string name="pre">President of the USA</string>
+    <string name="usa">44th President of the USA. Recipient of the Nobel peace prize (although no one is quiet certain what exactly for)</string>
+</resources>
